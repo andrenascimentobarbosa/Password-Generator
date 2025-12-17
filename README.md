@@ -37,8 +37,7 @@ The generated password follows this structure:
 Example:
 xkqmbraF492!
 
-yaml
-Copy code
+
 
 ---
 
@@ -51,8 +50,7 @@ This structure is **intentional** and based on real-world behavior.
 Completely random passwords like:
 @9F$kL2!qZ#
 
-markdown
-Copy code
+
 
 are:
 - Hard to read
@@ -88,8 +86,7 @@ Total possible combinations:
 
 26⁷ × 26 × 10³ × 32 ≈ 8 × 10¹⁵ possibilities
 
-yaml
-Copy code
+
 
 That is **over 8 quadrillion combinations**.
 
