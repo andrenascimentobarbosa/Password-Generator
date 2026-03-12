@@ -1,9 +1,6 @@
 Simple password generator.
 
-Made to be:
-Easy to visually 
-Easy to remember 
-Still hard to crack
+Made to be: easy to visually; easy to remember; still hard to crack
 
 Example:
 xkqmbraF492!
